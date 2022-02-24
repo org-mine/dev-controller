@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "org-mine-dev-controller"
+description: "CloudBees CI configuration bundle for the org-mine dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/org-mine/dev-controller"
+parent: "base"
